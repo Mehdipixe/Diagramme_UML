@@ -1,0 +1,11 @@
+@@startuml
+
+title diagramme de cas d'utilisation
+
+actor "Etudiant en BTS SIO" as Etudiant
+actor "Administrateur système" as Admin
+actor "Enseignants" as Professeur
+
+usecase "Consulter les notes" as uc1
+
+@@enduml
